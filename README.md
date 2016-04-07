@@ -1,4 +1,5 @@
 # Android-Framework-Code-Reading
+
 Android Framework Code Reading info
 
 
@@ -10,6 +11,22 @@ https://source.android.com/index.html
 
 https://android-review.googlesource.com/#/q/status:open
 
+## Git repositories on android
+
+https://android.googlesource.com/
+
+## Git repositories on android - android / platform / frameworks / base
+
+https://android.googlesource.com/platform/frameworks/base/
+
 ## Android Mirror Github Repository
 
 https://github.com/android
+
+## Androidソースコード検索サービス
+
+https://sites.google.com/site/devcollaboration/codesearch
+
+## Installing Repo
+
+http://source.android.com/source/downloading.html#installing-repo
