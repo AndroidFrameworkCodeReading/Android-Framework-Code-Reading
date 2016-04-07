@@ -30,3 +30,11 @@ https://sites.google.com/site/devcollaboration/codesearch
 ## Installing Repo
 
 http://source.android.com/source/downloading.html#installing-repo
+
+## Anatomy & Physiology of an Android - Google I/O 2008
+
+https://sites.google.com/site/io/anatomy--physiology-of-an-android
+
+## Inside the Android Application Framework - Google I/O 2008
+
+https://sites.google.com/site/io/inside-the-android-application-framework
