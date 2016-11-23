@@ -1,4 +1,4 @@
-# Android-Framework-Code-Reading
+# Android Framework Code Reading
 
 Android Framework Code Reading info
 
@@ -26,6 +26,12 @@ https://github.com/android
 ## Androidソースコード検索サービス
 
 https://sites.google.com/site/devcollaboration/codesearch
+
+
+## Android Interfaces and Architecture
+
+https://source.android.com/devices/index.html
+
 
 ## Installing Repo
 
